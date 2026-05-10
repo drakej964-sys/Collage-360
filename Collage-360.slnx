@@ -1,3 +1,8 @@
 ﻿<Solution>
+  <Project Path="PrimeTween.Debug.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Rowlan.Fullscreen.Editor.csproj" />
+  <Project Path="PrimeTween.Demo.csproj" />
+  <Project Path="Rowlan.Fullscreen.Runtime.csproj" />
+  <Project Path="PrimeTween.Installer.csproj" />
 </Solution>
